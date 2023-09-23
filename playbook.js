@@ -178,7 +178,7 @@
         for (var i = 0, r = new Array(e); i < e; i++) r[i] = t[i];
         return r
     }
-    a().register(JSON.parse('{"KAtDQ":"playbook.9fb05f6e.js","2j8SH":"cate1.012f66c0.png","7G9gf":"cate2.7ea52d9e.png","72luJ":"cate3.474cc3f5.png"}'));
+    a().register(JSON.parse('{"KAtDQ":"playbook.js","2j8SH":"cate1.012f66c0.png","7G9gf":"cate2.7ea52d9e.png","72luJ":"cate3.474cc3f5.png"}'));
     var E = {
             el: document,
             name: "scroll",
@@ -5450,4 +5450,4 @@
         t.ctrlKey && "s" === t.key && (t.preventDefault(), console.log("Please don't steal this website, if you wish to learn how to build somehting similar, check out this course: https://www.youtube.com/watch?v=XaEmcDMU01w&list=PLbtI3_MArDOkVji53VGRyQIPBOi1nB8rC"))
     })), console.log("made with 💗 by Mahendra Magar. This website is copyrighted, any act of stealing or altering would result in legal action.")
 }();
-//# sourceMappingURL=playbook.9fb05f6e.js.map
+//# sourceMappingURL=playboo.js.map
