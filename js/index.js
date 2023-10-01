@@ -143,4 +143,4 @@ document.addEventListener('keydown', (e) => {
     }
 })
 
-console.log("Made with 💗 by  Mahendra Magar. This website is copyrighted, any act of stealing or altering would result in legal action.")
+console.log("Made with ❤️ by  Mahendra Magar. This website is copyrighted, any act of stealing or altering would result in legal action.")
